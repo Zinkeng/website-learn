@@ -259,7 +259,7 @@ text-decoration: none;
     /* width: 32%;
     height: 200px; */
 
-    width: 32%;
+    width: 375px;
     height: 450px;
     background-color: white;
     margin-top: 20px;
@@ -291,3 +291,55 @@ text-decoration: none;
 .desc{
     padding-left: 20px;
 }
+
+.btn-project{
+  text-align: center;
+  padding: 30px 24px 40px 24px;
+}
+
+.idea{
+    text-align: center;
+    background-color: rgba(19, 34, 56, 1);
+    padding-top: 50px;
+    height: 300px;
+}
+
+.Blog{
+    align-items: center;
+    background-image: url(BG.png);
+}
+.blog-text{
+    text-align: center;
+}
+
+.card-6{
+    /* height: 636px; */
+    align-items: center;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card-6-1{
+    /* width: 32%;
+    height: 200px; */
+
+    width: 24%;
+    height: 325px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    text-align: start;
+    box-shadow: 0px 12px 64px 0px rgba(28, 25, 25, 0.12);
+
+}
+
+.card-6-1 img{
+    width: 100%;
+    height: 200px;
+}
+
